@@ -4,7 +4,7 @@ This is a web project developed using php-mysql , it’s about 2 website one for
 ## Screenshots 
 
 ### Instructor site 
-  
+
   #### 1- Login & Register 
   ![alt text](https://github.com/hbfawaz112/moodle-UL-Faculity-Of-Science/blob/main/ScreenShots/ss instructors/Login-Reegister.png?raw=true)
   
